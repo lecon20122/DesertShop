@@ -1,0 +1,225 @@
+H:\C#\Dessert\bin\Debug\net7.0\appsettings.Development.json
+H:\C#\Dessert\bin\Debug\net7.0\appsettings.json
+H:\C#\Dessert\bin\Debug\net7.0\Dessert.staticwebassets.runtime.json
+H:\C#\Dessert\bin\Debug\net7.0\Dessert.exe
+H:\C#\Dessert\bin\Debug\net7.0\Dessert.deps.json
+H:\C#\Dessert\bin\Debug\net7.0\Dessert.runtimeconfig.json
+H:\C#\Dessert\bin\Debug\net7.0\Dessert.dll
+H:\C#\Dessert\bin\Debug\net7.0\Dessert.pdb
+H:\C#\Dessert\obj\Debug\net7.0\Dessert.csproj.AssemblyReference.cache
+H:\C#\Dessert\obj\Debug\net7.0\Dessert.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\Dessert\obj\Debug\net7.0\Dessert.AssemblyInfoInputs.cache
+H:\C#\Dessert\obj\Debug\net7.0\Dessert.AssemblyInfo.cs
+H:\C#\Dessert\obj\Debug\net7.0\Dessert.csproj.CoreCompileInputs.cache
+H:\C#\Dessert\obj\Debug\net7.0\Dessert.MvcApplicationPartsAssemblyInfo.cache
+H:\C#\Dessert\obj\Debug\net7.0\Dessert.RazorAssemblyInfo.cache
+H:\C#\Dessert\obj\Debug\net7.0\Dessert.RazorAssemblyInfo.cs
+H:\C#\Dessert\obj\Debug\net7.0\staticwebassets\msbuild.Dessert.Microsoft.AspNetCore.StaticWebAssets.props
+H:\C#\Dessert\obj\Debug\net7.0\staticwebassets\msbuild.build.Dessert.props
+H:\C#\Dessert\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Dessert.props
+H:\C#\Dessert\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Dessert.props
+H:\C#\Dessert\obj\Debug\net7.0\staticwebassets.pack.json
+H:\C#\Dessert\obj\Debug\net7.0\staticwebassets.build.json
+H:\C#\Dessert\obj\Debug\net7.0\staticwebassets.development.json
+H:\C#\Dessert\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+H:\C#\Dessert\obj\Debug\net7.0\scopedcss\bundle\Dessert.styles.css
+H:\C#\Dessert\obj\Debug\net7.0\scopedcss\projectbundle\Dessert.bundle.scp.css
+H:\C#\Dessert\obj\Debug\net7.0\Dessert.dll
+H:\C#\Dessert\obj\Debug\net7.0\refint\Dessert.dll
+H:\C#\Dessert\obj\Debug\net7.0\Dessert.pdb
+H:\C#\Dessert\obj\Debug\net7.0\Dessert.genruntimeconfig.cache
+H:\C#\Dessert\obj\Debug\net7.0\ref\Dessert.dll
+H:\C#\Dessert\bin\Debug\net7.0\Azure.Core.dll
+H:\C#\Dessert\bin\Debug\net7.0\Azure.Identity.dll
+H:\C#\Dessert\bin\Debug\net7.0\Humanizer.dll
+H:\C#\Dessert\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\C#\Dessert\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+H:\C#\Dessert\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+H:\C#\Dessert\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\C#\Dessert\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\C#\Dessert\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\C#\Dessert\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\C#\Dessert\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+H:\C#\Dessert\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+H:\C#\Dessert\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\C#\Dessert\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+H:\C#\Dessert\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\C#\Dessert\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+H:\C#\Dessert\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+H:\C#\Dessert\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\C#\Dessert\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+H:\C#\Dessert\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+H:\C#\Dessert\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+H:\C#\Dessert\bin\Debug\net7.0\Mono.TextTemplating.dll
+H:\C#\Dessert\bin\Debug\net7.0\System.CodeDom.dll
+H:\C#\Dessert\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+H:\C#\Dessert\bin\Debug\net7.0\System.Drawing.Common.dll
+H:\C#\Dessert\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+H:\C#\Dessert\bin\Debug\net7.0\System.Memory.Data.dll
+H:\C#\Dessert\bin\Debug\net7.0\System.Runtime.Caching.dll
+H:\C#\Dessert\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+H:\C#\Dessert\bin\Debug\net7.0\System.Security.Permissions.dll
+H:\C#\Dessert\bin\Debug\net7.0\System.Windows.Extensions.dll
+H:\C#\Dessert\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\C#\Dessert\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\C#\Dessert\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\C#\Dessert\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\C#\Dessert\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\C#\Dessert\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\C#\Dessert\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+H:\C#\Dessert\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\C#\Dessert\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\C#\Dessert\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\C#\Dessert\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\C#\Dessert\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+H:\C#\Dessert\obj\Debug\net7.0\Dessert.csproj.CopyComplete
+H:\C#\dotnet fundmentals\Dessert\bin\Debug\net7.0\appsettings.Development.json
+H:\C#\dotnet fundmentals\Dessert\bin\Debug\net7.0\appsettings.json
+H:\C#\dotnet fundmentals\Dessert\bin\Debug\net7.0\Dessert.staticwebassets.runtime.json
+H:\C#\dotnet fundmentals\Dessert\bin\Debug\net7.0\Dessert.exe
+H:\C#\dotnet fundmentals\Dessert\bin\Debug\net7.0\Dessert.deps.json
+H:\C#\dotnet fundmentals\Dessert\bin\Debug\net7.0\Dessert.runtimeconfig.json
+H:\C#\dotnet fundmentals\Dessert\bin\Debug\net7.0\Dessert.dll
+H:\C#\dotnet fundmentals\Dessert\bin\Debug\net7.0\Dessert.pdb
+H:\C#\dotnet fundmentals\Dessert\bin\Debug\net7.0\Azure.Core.dll
+H:\C#\dotnet fundmentals\Dessert\bin\Debug\net7.0\Azure.Identity.dll
+H:\C#\dotnet fundmentals\Dessert\bin\Debug\net7.0\Humanizer.dll
+H:\C#\dotnet fundmentals\Dessert\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\C#\dotnet fundmentals\Dessert\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+H:\C#\dotnet fundmentals\Dessert\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+H:\C#\dotnet fundmentals\Dessert\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\C#\dotnet fundmentals\Dessert\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\C#\dotnet fundmentals\Dessert\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\C#\dotnet fundmentals\Dessert\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\C#\dotnet fundmentals\Dessert\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+H:\C#\dotnet fundmentals\Dessert\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+H:\C#\dotnet fundmentals\Dessert\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\C#\dotnet fundmentals\Dessert\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+H:\C#\dotnet fundmentals\Dessert\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\C#\dotnet fundmentals\Dessert\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+H:\C#\dotnet fundmentals\Dessert\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+H:\C#\dotnet fundmentals\Dessert\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\C#\dotnet fundmentals\Dessert\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+H:\C#\dotnet fundmentals\Dessert\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+H:\C#\dotnet fundmentals\Dessert\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+H:\C#\dotnet fundmentals\Dessert\bin\Debug\net7.0\Mono.TextTemplating.dll
+H:\C#\dotnet fundmentals\Dessert\bin\Debug\net7.0\System.CodeDom.dll
+H:\C#\dotnet fundmentals\Dessert\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+H:\C#\dotnet fundmentals\Dessert\bin\Debug\net7.0\System.Drawing.Common.dll
+H:\C#\dotnet fundmentals\Dessert\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+H:\C#\dotnet fundmentals\Dessert\bin\Debug\net7.0\System.Memory.Data.dll
+H:\C#\dotnet fundmentals\Dessert\bin\Debug\net7.0\System.Runtime.Caching.dll
+H:\C#\dotnet fundmentals\Dessert\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+H:\C#\dotnet fundmentals\Dessert\bin\Debug\net7.0\System.Security.Permissions.dll
+H:\C#\dotnet fundmentals\Dessert\bin\Debug\net7.0\System.Windows.Extensions.dll
+H:\C#\dotnet fundmentals\Dessert\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\C#\dotnet fundmentals\Dessert\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\C#\dotnet fundmentals\Dessert\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\C#\dotnet fundmentals\Dessert\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\C#\dotnet fundmentals\Dessert\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\C#\dotnet fundmentals\Dessert\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\C#\dotnet fundmentals\Dessert\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+H:\C#\dotnet fundmentals\Dessert\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\C#\dotnet fundmentals\Dessert\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\C#\dotnet fundmentals\Dessert\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\C#\dotnet fundmentals\Dessert\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\C#\dotnet fundmentals\Dessert\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+H:\C#\dotnet fundmentals\Dessert\obj\Debug\net7.0\Dessert.csproj.AssemblyReference.cache
+H:\C#\dotnet fundmentals\Dessert\obj\Debug\net7.0\Dessert.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\dotnet fundmentals\Dessert\obj\Debug\net7.0\Dessert.AssemblyInfoInputs.cache
+H:\C#\dotnet fundmentals\Dessert\obj\Debug\net7.0\Dessert.AssemblyInfo.cs
+H:\C#\dotnet fundmentals\Dessert\obj\Debug\net7.0\Dessert.csproj.CoreCompileInputs.cache
+H:\C#\dotnet fundmentals\Dessert\obj\Debug\net7.0\Dessert.MvcApplicationPartsAssemblyInfo.cache
+H:\C#\dotnet fundmentals\Dessert\obj\Debug\net7.0\Dessert.RazorAssemblyInfo.cache
+H:\C#\dotnet fundmentals\Dessert\obj\Debug\net7.0\Dessert.RazorAssemblyInfo.cs
+H:\C#\dotnet fundmentals\Dessert\obj\Debug\net7.0\staticwebassets\msbuild.Dessert.Microsoft.AspNetCore.StaticWebAssets.props
+H:\C#\dotnet fundmentals\Dessert\obj\Debug\net7.0\staticwebassets\msbuild.build.Dessert.props
+H:\C#\dotnet fundmentals\Dessert\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Dessert.props
+H:\C#\dotnet fundmentals\Dessert\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Dessert.props
+H:\C#\dotnet fundmentals\Dessert\obj\Debug\net7.0\staticwebassets.pack.json
+H:\C#\dotnet fundmentals\Dessert\obj\Debug\net7.0\staticwebassets.build.json
+H:\C#\dotnet fundmentals\Dessert\obj\Debug\net7.0\staticwebassets.development.json
+H:\C#\dotnet fundmentals\Dessert\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+H:\C#\dotnet fundmentals\Dessert\obj\Debug\net7.0\scopedcss\bundle\Dessert.styles.css
+H:\C#\dotnet fundmentals\Dessert\obj\Debug\net7.0\scopedcss\projectbundle\Dessert.bundle.scp.css
+H:\C#\dotnet fundmentals\Dessert\obj\Debug\net7.0\Dessert.csproj.CopyComplete
+H:\C#\dotnet fundmentals\Dessert\obj\Debug\net7.0\Dessert.dll
+H:\C#\dotnet fundmentals\Dessert\obj\Debug\net7.0\refint\Dessert.dll
+H:\C#\dotnet fundmentals\Dessert\obj\Debug\net7.0\Dessert.pdb
+H:\C#\dotnet fundmentals\Dessert\obj\Debug\net7.0\Dessert.genruntimeconfig.cache
+H:\C#\dotnet fundmentals\Dessert\obj\Debug\net7.0\ref\Dessert.dll
+H:\C#\DessertProject\Dessert\bin\Debug\net7.0\appsettings.Development.json
+H:\C#\DessertProject\Dessert\bin\Debug\net7.0\appsettings.json
+H:\C#\DessertProject\Dessert\bin\Debug\net7.0\Dessert.staticwebassets.runtime.json
+H:\C#\DessertProject\Dessert\bin\Debug\net7.0\Dessert.exe
+H:\C#\DessertProject\Dessert\bin\Debug\net7.0\Dessert.deps.json
+H:\C#\DessertProject\Dessert\bin\Debug\net7.0\Dessert.runtimeconfig.json
+H:\C#\DessertProject\Dessert\bin\Debug\net7.0\Dessert.dll
+H:\C#\DessertProject\Dessert\bin\Debug\net7.0\Dessert.pdb
+H:\C#\DessertProject\Dessert\bin\Debug\net7.0\Azure.Core.dll
+H:\C#\DessertProject\Dessert\bin\Debug\net7.0\Azure.Identity.dll
+H:\C#\DessertProject\Dessert\bin\Debug\net7.0\Humanizer.dll
+H:\C#\DessertProject\Dessert\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\C#\DessertProject\Dessert\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+H:\C#\DessertProject\Dessert\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+H:\C#\DessertProject\Dessert\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\C#\DessertProject\Dessert\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\C#\DessertProject\Dessert\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\C#\DessertProject\Dessert\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\C#\DessertProject\Dessert\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+H:\C#\DessertProject\Dessert\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+H:\C#\DessertProject\Dessert\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\C#\DessertProject\Dessert\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+H:\C#\DessertProject\Dessert\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\C#\DessertProject\Dessert\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+H:\C#\DessertProject\Dessert\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+H:\C#\DessertProject\Dessert\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\C#\DessertProject\Dessert\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+H:\C#\DessertProject\Dessert\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+H:\C#\DessertProject\Dessert\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+H:\C#\DessertProject\Dessert\bin\Debug\net7.0\Mono.TextTemplating.dll
+H:\C#\DessertProject\Dessert\bin\Debug\net7.0\System.CodeDom.dll
+H:\C#\DessertProject\Dessert\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+H:\C#\DessertProject\Dessert\bin\Debug\net7.0\System.Drawing.Common.dll
+H:\C#\DessertProject\Dessert\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+H:\C#\DessertProject\Dessert\bin\Debug\net7.0\System.Memory.Data.dll
+H:\C#\DessertProject\Dessert\bin\Debug\net7.0\System.Runtime.Caching.dll
+H:\C#\DessertProject\Dessert\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+H:\C#\DessertProject\Dessert\bin\Debug\net7.0\System.Security.Permissions.dll
+H:\C#\DessertProject\Dessert\bin\Debug\net7.0\System.Windows.Extensions.dll
+H:\C#\DessertProject\Dessert\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\C#\DessertProject\Dessert\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\C#\DessertProject\Dessert\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\C#\DessertProject\Dessert\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\C#\DessertProject\Dessert\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\C#\DessertProject\Dessert\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\C#\DessertProject\Dessert\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+H:\C#\DessertProject\Dessert\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\C#\DessertProject\Dessert\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\C#\DessertProject\Dessert\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\C#\DessertProject\Dessert\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\C#\DessertProject\Dessert\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+H:\C#\DessertProject\Dessert\obj\Debug\net7.0\Dessert.csproj.AssemblyReference.cache
+H:\C#\DessertProject\Dessert\obj\Debug\net7.0\Dessert.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\DessertProject\Dessert\obj\Debug\net7.0\Dessert.AssemblyInfoInputs.cache
+H:\C#\DessertProject\Dessert\obj\Debug\net7.0\Dessert.AssemblyInfo.cs
+H:\C#\DessertProject\Dessert\obj\Debug\net7.0\Dessert.csproj.CoreCompileInputs.cache
+H:\C#\DessertProject\Dessert\obj\Debug\net7.0\Dessert.MvcApplicationPartsAssemblyInfo.cache
+H:\C#\DessertProject\Dessert\obj\Debug\net7.0\Dessert.RazorAssemblyInfo.cache
+H:\C#\DessertProject\Dessert\obj\Debug\net7.0\Dessert.RazorAssemblyInfo.cs
+H:\C#\DessertProject\Dessert\obj\Debug\net7.0\staticwebassets\msbuild.Dessert.Microsoft.AspNetCore.StaticWebAssets.props
+H:\C#\DessertProject\Dessert\obj\Debug\net7.0\staticwebassets\msbuild.build.Dessert.props
+H:\C#\DessertProject\Dessert\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Dessert.props
+H:\C#\DessertProject\Dessert\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Dessert.props
+H:\C#\DessertProject\Dessert\obj\Debug\net7.0\staticwebassets.pack.json
+H:\C#\DessertProject\Dessert\obj\Debug\net7.0\staticwebassets.build.json
+H:\C#\DessertProject\Dessert\obj\Debug\net7.0\staticwebassets.development.json
+H:\C#\DessertProject\Dessert\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+H:\C#\DessertProject\Dessert\obj\Debug\net7.0\scopedcss\bundle\Dessert.styles.css
+H:\C#\DessertProject\Dessert\obj\Debug\net7.0\scopedcss\projectbundle\Dessert.bundle.scp.css
+H:\C#\DessertProject\Dessert\obj\Debug\net7.0\Dessert.csproj.CopyComplete
+H:\C#\DessertProject\Dessert\obj\Debug\net7.0\Dessert.dll
+H:\C#\DessertProject\Dessert\obj\Debug\net7.0\refint\Dessert.dll
+H:\C#\DessertProject\Dessert\obj\Debug\net7.0\Dessert.pdb
+H:\C#\DessertProject\Dessert\obj\Debug\net7.0\Dessert.genruntimeconfig.cache
+H:\C#\DessertProject\Dessert\obj\Debug\net7.0\ref\Dessert.dll
